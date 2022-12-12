@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "798609259564",
+    "firebase_url": "https://nibm-212f-c5cc2-default-rtdb.firebaseio.com",
+    "project_id": "nibm-212f-c5cc2",
+    "storage_bucket": "nibm-212f-c5cc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798609259564:android:7996e94a32be4997606589",
+        "android_client_info": {
+          "package_name": "com.example.skylight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798609259564-sl68slljp6t679md7rddvamb9h20scu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFAaPjAZ63G9CsKWFxFIfuToORWakug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798609259564-sl68slljp6t679md7rddvamb9h20scu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798609259564:android:89714bdef3e01944606589",
+        "android_client_info": {
+          "package_name": "com.nibm.lk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798609259564-sl68slljp6t679md7rddvamb9h20scu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmFAaPjAZ63G9CsKWFxFIfuToORWakug8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798609259564-sl68slljp6t679md7rddvamb9h20scu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout_cardView_Places"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="20dp">
+
+    <com.google.android.material.imageview.ShapeableImageView
+        android:layout_width="280dp"
+        android:layout_height="180dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/ic_launcher_background"
+        android:tag="@string/tag"
+        android:theme="@style/Theme.AppCompat"
+        app:shapeAppearanceOverlay="@style/imagescornerradius"
+        app:strokeColor="@null" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="100dp"
+        android:tag="tv_hotel_name"
+        android:text="Velassaru Maldives"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+
+    <RatingBar
+        android:id="@+id/ratingBar"
+        style="@style/Widget.AppCompat.RatingBar.Small"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="105dp"
+        android:clickable="false"
+        android:numStars="5"
+        android:progressTint="@color/white"
+        android:rating="2.5"
+        android:tag="rb_hotel_rating" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginTop="125dp"
+        android:src="@drawable/ic_baseline_location_on_24" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="130dp"
+        android:tag="tv_hotel_location"
+        android:text="Maldives"
+        android:textColor="@color/white"
+        android:textSize="14dp" />
+</RelativeLayout>
