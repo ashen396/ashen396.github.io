@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b09529c7.css",
+    "main.js": "/static/js/main.c2374bff.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/apple_store.png": "/static/media/apple_store.e33ce8c3f8e0162f62bc.png",
+    "static/media/free_through.png": "/static/media/free_through.1d6a90ac364f116bd11d.png",
+    "static/media/Kotlin_logo.png": "/static/media/Kotlin_logo.fe9636198dea89926cbc.png",
+    "static/media/menu.png": "/static/media/menu.06cce20dd1b425e92bef.png",
+    "static/media/app_count.png": "/static/media/app_count.62926893cb8e9a299eb7.png",
+    "static/media/profile_picture.jpeg": "/static/media/profile_picture.000f40774e3741b1d50b.jpeg",
+    "static/media/JavaScript-logo.png": "/static/media/JavaScript-logo.062825dbceed44567e91.png",
+    "static/media/C_logo.png": "/static/media/C_logo.d083731589e745941c43.png",
+    "static/media/Java-logo.png": "/static/media/Java-logo.cb0a5778988a6d5c2348.png",
+    "static/media/SpringBoot_logo.jpeg": "/static/media/SpringBoot_logo.68c6da545c2d7f42b884.jpeg",
+    "static/media/CPP_logo.png": "/static/media/CPP_logo.d7a72328ffe7d955a33e.png",
+    "static/media/whatsapp-svgrepo-com.svg": "/static/media/whatsapp-svgrepo-com.2ff00631d8aa86bf660b6fe9fbaea246.svg",
+    "static/media/github-svgrepo-com.svg": "/static/media/github-svgrepo-com.a23909763f699d23eec6dc9f7603d873.svg",
+    "static/media/play-button-svgrepo-com.svg": "/static/media/play-button-svgrepo-com.8d306c9de7d3bca913754f591ee86554.svg",
+    "static/media/skip-forward-circle-fill-svgrepo-com.svg": "/static/media/skip-forward-circle-fill-svgrepo-com.7a249e7199b58d78d1fe1073b7dd9ad5.svg",
+    "index.html": "/index.html",
+    "static/media/iconmonstr-linkedin-3.svg": "/static/media/iconmonstr-linkedin-3.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "static/media/Gmail_icon_(2020).svg": "/static/media/Gmail_icon_(2020).24f5d8fc1769c1cd266d692d55ec1ca6.svg",
+    "main.b09529c7.css.map": "/static/css/main.b09529c7.css.map",
+    "main.c2374bff.js.map": "/static/js/main.c2374bff.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b09529c7.css",
+    "static/js/main.c2374bff.js"
+  ]
+}
