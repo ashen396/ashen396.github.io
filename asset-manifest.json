@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b09529c7.css",
-    "main.js": "/static/js/main.c2374bff.js",
+    "main.css": "/static/css/main.6b7b3065.css",
+    "main.js": "/static/js/main.c30f390b.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/apple_store.png": "/static/media/apple_store.e33ce8c3f8e0162f62bc.png",
     "static/media/free_through.png": "/static/media/free_through.1d6a90ac364f116bd11d.png",
@@ -17,16 +17,16 @@
     "static/media/whatsapp-svgrepo-com.svg": "/static/media/whatsapp-svgrepo-com.2ff00631d8aa86bf660b6fe9fbaea246.svg",
     "static/media/github-svgrepo-com.svg": "/static/media/github-svgrepo-com.a23909763f699d23eec6dc9f7603d873.svg",
     "static/media/play-button-svgrepo-com.svg": "/static/media/play-button-svgrepo-com.8d306c9de7d3bca913754f591ee86554.svg",
-    "static/media/skip-forward-circle-fill-svgrepo-com.svg": "/static/media/skip-forward-circle-fill-svgrepo-com.7a249e7199b58d78d1fe1073b7dd9ad5.svg",
     "index.html": "/index.html",
+    "static/media/skip-forward-circle-fill-svgrepo-com.svg": "/static/media/skip-forward-circle-fill-svgrepo-com.7a249e7199b58d78d1fe1073b7dd9ad5.svg",
     "static/media/iconmonstr-linkedin-3.svg": "/static/media/iconmonstr-linkedin-3.27a3f479ca1bbb0ceef19e395081fb94.svg",
     "static/media/Gmail_icon_(2020).svg": "/static/media/Gmail_icon_(2020).24f5d8fc1769c1cd266d692d55ec1ca6.svg",
-    "main.b09529c7.css.map": "/static/css/main.b09529c7.css.map",
-    "main.c2374bff.js.map": "/static/js/main.c2374bff.js.map",
+    "main.6b7b3065.css.map": "/static/css/main.6b7b3065.css.map",
+    "main.c30f390b.js.map": "/static/js/main.c30f390b.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b09529c7.css",
-    "static/js/main.c2374bff.js"
+    "static/css/main.6b7b3065.css",
+    "static/js/main.c30f390b.js"
   ]
 }
